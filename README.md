@@ -5,8 +5,9 @@ To develop a website to display the cover page design of a book
 ## Design Steps:
 
 ### Step 1:
-Write your own steps here.
+Clone the github repository and creat a django admin interface.
 ### Step 2:
+Write HTML and CSS code for designing book cover page and execute them.
 
 ## Code:
 ### HTML 
@@ -142,4 +143,4 @@ Write your own steps here.
 
 
 ## Result:
-Write your result
+The program for desigining book cover page using HTML and CSS is executed successfully.
